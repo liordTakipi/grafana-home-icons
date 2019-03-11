@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>oo-logo-gray</title>
+    <desc>Created with Sketch.</desc>
+    <g id="oo-logo-gray" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="symbol" transform="translate(15.000000, 12.000000)" fill-rule="nonzero">
+            <path d="M10.75,26.58 C12.98,12.4 16.14,8.67 25.46,8.67 C31.88,8.67 34.77,10.99 35.03,16.99 L44.95,16.99 C44.38,5.99 38.39,0.99 27.06,0.99 L0,0.99 L9.82,4.93 C4.9,8.71 2.22,15.55 0.66,25.93 C0.361716437,27.9421652 0.164801137,29.9680565 0.07,32 L10.13,32 C10.25,30 10.46,28.48 10.75,26.58 Z" id="Path" fill="#55B1E3"></path>
+            <path d="M34.25,25.6 C32.09,39.6 28.62,43.67 19.61,43.67 C13.32,43.67 10.49,41.99 10.05,35.99 L0.05,35.99 C0.8,46.99 7.31,51.19 19.35,51.19 C34.84,51.19 41.46,45.41 44.35,26.3 C44.627106,24.5443257 44.8106983,22.7751635 44.9,21 L34.9,21 C34.73,22 34.53,23.91 34.25,25.6 Z" id="Path" fill="#999999"></path>
+        </g>
+    </g>
+</svg>
